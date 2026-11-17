@@ -5,8 +5,8 @@ A Python/Pygame game where the player explores an ancient temple, collects keys,
 ## Team
 | Member | Name | Role | File |
 |--------|------|------|------|
-| Member 1 | Menna Nabil Alii | Game Environment | `environment.py` |
-| Member 2 | Basmala Nohaned Sobhy | AI Search Algorithms | `algorithms.py` |
+| Member 1 | Menna Nabil Ali | Game Environment | `environment.py` |
+| Member 2 | Basmala Mohamed Sobhy | AI Search Algorithms | `algorithms.py` |
 | Member 3 | Habiba Ahmed Mohamed | Puzzles & Game Mechanics | `mechanics.py` |
 | Member 4 | Jumana Saad Refaat | Interface & Integration | `main.py` |
 
